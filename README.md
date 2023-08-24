@@ -1,3 +1,3 @@
-# Namaste React
+# Episode 01 completed
 
-###  Namaste React
+# Episode 02 completed
